@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26c5756e-649d-4e2c-9f4c-61909af49b85" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/components/widgets/ImageWidgetComponet.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/widgets/ImageWidgetComponet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/TopicService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/TopicService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/WidgetService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/WidgetService.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cH4bdqi2iFyFLMsyXK0y7agz6F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../assignment1/CS4550-20su1-TianqiLi-server-java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\12972\Desktop\wbdv\cs4550-20su1-tianqi-li-client-react\src" />
+      <recent name="C:\Users\12972\Desktop\wbdv\cs4550-20su1-tianqi-li-client-react\src\container" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\12972\Desktop\wbdv\cs4550-20su1-tianqi-li-client-react\src\components" />
+      <recent name="C:\Users\12972\Desktop\wbdv\cs4550-20su1-tianqi-li-client-react\src\services" />
+      <recent name="C:\Users\12972\Desktop\wbdv\cs4550-20su1-tianqi-li-client-react\src\reducers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26c5756e-649d-4e2c-9f4c-61909af49b85" name="Default Changelist" comment="" />
+      <created>1590172257590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590172257590</updated>
+      <workItem from="1590172259139" duration="7542000" />
+      <workItem from="1590252877073" duration="25380000" />
+      <workItem from="1590286663777" duration="6000" />
+      <workItem from="1590333087002" duration="24192000" />
+      <workItem from="1590425913182" duration="9671000" />
+      <workItem from="1590440288106" duration="4368000" />
+      <workItem from="1590523827648" duration="1309000" />
+      <workItem from="1590532897320" duration="4666000" />
+      <workItem from="1590603452903" duration="505000" />
+      <workItem from="1590604060976" duration="20000" />
+      <workItem from="1590617414720" duration="7028000" />
+      <workItem from="1590678835666" duration="5380000" />
+      <workItem from="1591380969099" duration="2506000" />
+      <workItem from="1591458891848" duration="11055000" />
+      <workItem from="1591542635919" duration="12137000" />
+      <workItem from="1591630517030" duration="18580000" />
+      <workItem from="1591725474171" duration="2016000" />
+      <workItem from="1591812113138" duration="1392000" />
+      <workItem from="1591900025453" duration="18000" />
+      <workItem from="1592147886578" duration="1388000" />
+      <workItem from="1592175124073" duration="3805000" />
+      <workItem from="1592241998261" duration="13540000" />
+      <workItem from="1592258114626" duration="1563000" />
+      <workItem from="1592425050610" duration="97000" />
+      <workItem from="1592615969022" duration="67000" />
+      <workItem from="1592617106348" duration="393000" />
+      <workItem from="1592662265575" duration="2852000" />
+      <workItem from="1592665744531" duration="7000" />
+      <workItem from="1592665816475" duration="35000" />
+      <workItem from="1592666580518" duration="4176000" />
+      <workItem from="1592695352931" duration="1842000" />
+      <workItem from="1592778517231" duration="24000" />
+      <workItem from="1592778647609" duration="662000" />
+      <workItem from="1592843338756" duration="910000" />
+      <workItem from="1592845933586" duration="4099000" />
+      <workItem from="1592850151113" duration="7833000" />
+    </task>
+    <task id="LOCAL-00001" summary="edit the ModuleList">
+      <created>1590355725909</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590355725909</updated>
+    </task>
+    <task id="LOCAL-00002" summary="edit the TopicPill">
+      <created>1590355777624</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590355777624</updated>
+    </task>
+    <task id="LOCAL-00003" summary="edit the TopicPill">
+      <created>1590355795595</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590355795595</updated>
+    </task>
+    <task id="LOCAL-00004" summary="edit the WidgetList(pages)">
+      <created>1590355835047</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590355835047</updated>
+    </task>
+    <task id="LOCAL-00005" summary="edit the CourseEditor, ModuleList, pageTabs, topicpill(pages)">
+      <created>1590356861025</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590356861026</updated>
+    </task>
+    <task id="LOCAL-00006" summary="edit the all CourseEditor to my prev-assignment CourseEditor">
+      <created>1590357241415</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590357241415</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add an add btn">
+      <created>1590357551834</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590357551834</updated>
+    </task>
+    <task id="LOCAL-00008" summary="edit the grid and table btn change by the link">
+      <created>1590372532124</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590372532124</updated>
+    </task>
+    <task id="LOCAL-00009" summary="edit the table style and add icon">
+      <created>1590374505007</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590374505007</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix a little bug for Id">
+      <created>1590375021922</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1590375021922</updated>
+    </task>
+    <task id="LOCAL-00011" summary="change some style and some link problem">
+      <created>1590377154712</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1590377154712</updated>
+    </task>
+    <task id="LOCAL-00012" summary="edit the course manger's nav header">
+      <created>1590378473577</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1590378473577</updated>
+    </task>
+    <task id="LOCAL-00013" summary="change the grid and table btn to icon type">
+      <created>1590378691836</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1590378691836</updated>
+    </task>
+    <task id="LOCAL-00014" summary="edit on the header's style">
+      <created>1590426992961</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1590426992961</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add the grid and the courseCardComponent">
+      <created>1590427541492</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1590427541492</updated>
+    </task>
+    <task id="LOCAL-00016" summary="edit on the grid make it can layout different size with different layout column number and make it can be edit and show the date and title and modified people">
+      <created>1590431167264</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1590431167264</updated>
+    </task>
+    <task id="LOCAL-00017" summary="edit the grid header">
+      <created>1590434735459</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1590434735459</updated>
+    </task>
+    <task id="LOCAL-00018" summary="fix the bug for delete course in grid form">
+      <created>1590436110856</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1590436110856</updated>
+    </task>
+    <task id="LOCAL-00019" summary="remove some import">
+      <created>1590438467262</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1590438467262</updated>
+    </task>
+    <task id="LOCAL-00020" summary="fix some bugs form html type to js type">
+      <created>1590441166165</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1590441166165</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add a link file in card body and modified on some style and add a highlight when select(edit)">
+      <created>1590442557266</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1590442557266</updated>
+    </task>
+    <task id="LOCAL-00022" summary="edit the table can hide column">
+      <created>1590533785144</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1590533785144</updated>
+    </task>
+    <task id="LOCAL-00023" summary="move the start code from the lecture">
+      <created>1591383273181</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1591383273181</updated>
+    </task>
+    <task id="LOCAL-00024" summary="edit some problem">
+      <created>1591465521038</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1591465521038</updated>
+    </task>
+    <task id="LOCAL-00025" summary="change some style and need to fix the delete problem for lesson">
+      <created>1591468445820</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1591468445820</updated>
+    </task>
+    <task id="LOCAL-00026" summary="edit some bugs">
+      <created>1591472614233</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1591472614233</updated>
+    </task>
+    <task id="LOCAL-00027" summary="add updatelesson feature">
+      <created>1591543101950</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1591543101950</updated>
+    </task>
+    <task id="LOCAL-00028" summary="edit the upadatelesson make it work and add the topicComponent, reducer and service js file">
+      <created>1591548949909</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1591548949909</updated>
+    </task>
+    <task id="LOCAL-00029" summary="write the reducer and service for topic">
+      <created>1591559048266</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1591559048266</updated>
+    </task>
+    <task id="LOCAL-00030" summary="edit lessonTab to component and container">
+      <created>1591562218241</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1591562218241</updated>
+    </task>
+    <task id="LOCAL-00031" summary="write all the thing about the topicpill">
+      <created>1591631888576</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1591631888576</updated>
+    </task>
+    <task id="LOCAL-00032" summary="fix the bug about the topicReducer">
+      <created>1591636949912</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1591636949912</updated>
+    </task>
+    <task id="LOCAL-00033" summary="fix the part of bug on topic, still cannot pass the lessonId to service">
+      <created>1591648212688</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1591648212688</updated>
+    </task>
+    <task id="LOCAL-00034" summary="fix the bug for pass lessonId to topic service">
+      <created>1591648320773</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1591648320773</updated>
+    </task>
+    <task id="LOCAL-00035" summary="add the highlight when edit a module">
+      <created>1591649772402</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1591649772402</updated>
+    </task>
+    <task id="LOCAL-00036" summary="add the highlight when edit a lessons and make the lesson horizontal">
+      <created>1591651135697</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1591651135697</updated>
+    </task>
+    <task id="LOCAL-00037" summary="add the highlight when edit a topic and make the topic horizontal">
+      <created>1591651352801</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1591651352801</updated>
+    </task>
+    <task id="LOCAL-00038" summary="change all component's style">
+      <created>1591652093230</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1591652093230</updated>
+    </task>
+    <task id="LOCAL-00039" summary="add the start code from lecture">
+      <created>1592148733564</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1592148733564</updated>
+    </task>
+    <task id="LOCAL-00040" summary="add the start code from lecture">
+      <created>1592148763358</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1592148763358</updated>
+    </task>
+    <task id="LOCAL-00041" summary="add a path from topic to widget">
+      <created>1592176833236</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1592176833236</updated>
+    </task>
+    <task id="LOCAL-00042" summary="edit on all widget feature and make it work, but the update still has some error">
+      <created>1592251400606</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1592251400606</updated>
+    </task>
+    <task id="LOCAL-00043" summary="edit some bug">
+      <created>1592254727846</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1592254727846</updated>
+    </task>
+    <task id="LOCAL-00044" summary="edit some bug">
+      <created>1592256377358</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1592256377359</updated>
+    </task>
+    <task id="LOCAL-00045" summary="change the url from local to own heroku">
+      <created>1592258486063</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1592258486064</updated>
+    </task>
+    <task id="LOCAL-00046" summary="fix the last assignmemt 5's bug and make the topic and widget work">
+      <created>1592697029945</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1592697029945</updated>
+    </task>
+    <task id="LOCAL-00047" summary="add the ListWidget">
+      <created>1592856390998</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1592856390998</updated>
+    </task>
+    <task id="LOCAL-00048" summary="add the imageWidget">
+      <created>1592857712602</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1592857712602</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="edit the table can hide column" />
+    <MESSAGE value="move the start code from the lecture" />
+    <MESSAGE value="edit some problem" />
+    <MESSAGE value="change some style and need to fix the delete problem for lesson" />
+    <MESSAGE value="edit some bugs" />
+    <MESSAGE value="add updatelesson feature" />
+    <MESSAGE value="edit the upadatelesson make it work and add the topicComponent, reducer and service js file" />
+    <MESSAGE value="write the reducer and service for topic" />
+    <MESSAGE value="edit lessonTab to component and container" />
+    <MESSAGE value="write all the thing about the topicpill" />
+    <MESSAGE value="fix the bug about the topicReducer" />
+    <MESSAGE value="fix the part of bug on topic, still cannot pass the lessonId to service" />
+    <MESSAGE value="fix the bug for pass lessonId to topic service" />
+    <MESSAGE value="add the highlight when edit a module" />
+    <MESSAGE value="add the highlight when edit a lessons and make the lesson horizontal" />
+    <MESSAGE value="add the highlight when edit a topic and make the topic horizontal" />
+    <MESSAGE value="change all component's style" />
+    <MESSAGE value="add the start code from lecture" />
+    <MESSAGE value="add a path from topic to widget" />
+    <MESSAGE value="edit on all widget feature and make it work, but the update still has some error" />
+    <MESSAGE value="edit some bug" />
+    <MESSAGE value="change the url from local to own heroku" />
+    <MESSAGE value="fix the last assignmemt 5's bug and make the topic and widget work" />
+    <MESSAGE value="add the ListWidget" />
+    <MESSAGE value="add the imageWidget" />
+    <option name="LAST_COMMIT_MESSAGE" value="add the imageWidget" />
+  </component>
+</project>
